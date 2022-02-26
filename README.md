@@ -56,7 +56,7 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 |2021.09~ 2022.02|[Goorm : 모두가 개발자가 된다](https://www.goorm.io/)|React, js, Node, express, mongodb|[DEVTH](https://devth.goorm.io/?_ga=2.96612759.929422780.1645847251-872684322.1634826781)|웹 풀스택 인턴십|
 |||React, js, Node, express, mongodb|[online coding party](https://codingparty.goorm.io/)|웹 풀스택 인턴십|
 |2021.09~ 2022.01|[대학생 연합 IT벤처 창업 동아리 SOPT 29th - WE SOPT](http://sopt.org/wp/)|Node, express, postgresql|[Sodam 소담](https://github.com/TeamSodam/sodam-server)|서버|
-|||Node, express, postgresql, React, ts|[Sodam 소담 어드민](https://github.com/TeamSodam/sodam-admin)|웹 풀스택|
+|||Node, express, postgresql, React, ts|[Sodam 소담 어드민](https://github.com/Nahee-Park/sodam-admin)|웹 풀스택|
 
 [![nahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahee-Park&theme=dracula)](https://github.com/Nahee-Park/github-readme-stats)
   
