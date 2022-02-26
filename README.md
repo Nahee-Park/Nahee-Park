@@ -29,7 +29,7 @@
 - develog : https://velog.io/@devstone 
   
 ## 🛠 Tech Stack 🛠 
-#### 📍  Programming languages
+### 📍  Programming languages
 <img alt="JavaScript" src="https://camo.githubusercontent.com/7a48ad3028bc23b33e755e555609a4ccdd3ba1ef6fb92aa2214eea10e3b7e184/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black" style="max-width: 100%;"> <img alt="TypeScript" src="https://camo.githubusercontent.com/33e73828438989dd05e7c17c133ef2659b1a70cb9d8c85f10684c446390c6818/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742532302d2532333737374242342e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/TypeScript%20-%23777BB4.svg?logo=typescript&amp;logoColor=black" style="max-width: 100%;"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&amp;logoColor=white" style="max-width: 100%;"> <img alt="C" src="https://camo.githubusercontent.com/b8e75db4ca1e09333bdc1c24f742ec392314fb52ec73c033448c6a00e7c66c1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532302d2532333233373045442e7376673f6c6f676f3d63266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/dynamic/C%20-%232370ED.svg?logo=c&amp;logoColor=white" style="max-width: 100%;"> <img alt="Java" 
 src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white&style=plastic" style="max-width: 100%;">
 
