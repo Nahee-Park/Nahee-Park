@@ -55,12 +55,13 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 
 - [DragMe 드래그미](https://github.com/Team-DragMe/DragMe-Client) - Web Frontend
 - [SOPT Homepage 솝트 공식사이트](https://github.com/sopt/sopt.org-frontend) - Web Frontend
-- [Parachute Drop](https://github.com/Hackatom-2022-Shooting-Stars) - Hackatom Seoul 2nd prize / Web Frontend
+- [Parachute Drop](https://github.com/Hackatom-2022-Shooting-Stars) - Hackatom Seoul 2nd prize, Evmos Momentum Hackathon 2nd prize / Web Frontend
 - [ScamScan](https://github.com/ScamScan/scamscan-frontend) - Web Frontend
 - [Discord NFT Holder Authentication Bot](https://github.com/Nahee-Park/discord-authentication-bot) - Web Frontend / Backend
 
 #### Open Source Project
 - [Update onboarding-library.md](https://github.com/MetaMask/metamask-docs/pull/504#pullrequestreview-1017929475)
+- [Move language syntax highlighting for the Monaco Editor](https://github.com/ethereum/remix-project/pull/3058)
 
 ### 2021
 #### Own Projects
