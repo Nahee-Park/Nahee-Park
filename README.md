@@ -62,6 +62,7 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 #### Open Source Project
 - [Update onboarding-library.md](https://github.com/MetaMask/metamask-docs/pull/504#pullrequestreview-1017929475)
 - [Move language syntax highlighting for the Monaco Editor](https://github.com/ethereum/remix-project/pull/3058)
+- [kms npm package](https://github.com/dsrvlabs/kms-monorepo)
 
 ### 2021
 #### Own Projects
