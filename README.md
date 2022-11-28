@@ -97,9 +97,9 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 |2021.09~ 2022.01|[대학생 연합 IT벤처 창업 동아리 SOPT 29th - WE SOPT](http://sopt.org/wp/)|Node, express, postgresql|[Sodam 소담](https://github.com/TeamSodam/sodam-server)|Backend|
 |||Node, express, postgresql, React, ts|[Sodam 소담 어드민](https://github.com/Nahee-Park/sodam-admin)|Web Frontend, Backend| -->
 
+<!-- 
 
-
-[![nahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahee-Park&theme=dracula)](https://github.com/Nahee-Park/github-readme-stats)
+[![nahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahee-Park&theme=dracula)](https://github.com/Nahee-Park/github-readme-stats) -->
   
 
 <!-- <div align="right">
