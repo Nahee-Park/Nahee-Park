@@ -60,9 +60,10 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 - [Discord NFT Holder Authentication Bot](https://github.com/Nahee-Park/discord-authentication-bot) - Web Frontend / Backend
 
 #### Open Source Project
-- [Update onboarding-library.md](https://github.com/MetaMask/metamask-docs/pull/504#pullrequestreview-1017929475)
 - [Move language syntax highlighting for the Monaco Editor](https://github.com/ethereum/remix-project/pull/3058)
 - [kms npm package](https://github.com/dsrvlabs/kms-monorepo)
+- [WELLDONE Studio Docs](https://github.com/welldonestudio/welldonestudio.github.io)
+- [Update onboarding-library.md](https://github.com/MetaMask/metamask-docs/pull/504#pullrequestreview-1017929475)
 
 ### 2021
 #### Own Projects
