@@ -79,7 +79,7 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 
 - 30th SOPT Web Development
 - AUSG(AWSKRUG University Student Group) 6th member 
-- 2022.06 ~ : [dsrvlabs](https://www.dsrvlabs.com/) 
+- 2022.06 ~ 2023.02 : [dsrvlabs](https://www.dsrvlabs.com/) 
   - [WELLDONE Studio](https://welldonestudio.io/) Remix ide, plugin software engineer internship 
 
 ### 2021
