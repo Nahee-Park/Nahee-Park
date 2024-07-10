@@ -11,7 +11,9 @@
    <img src="https://camo.githubusercontent.com/f5d6190be6b942fe05521cf17cff5131bb10cf22f3a4c44a15bd7fa85a73deeb/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233333642434637266c696e65733d48692b49276d2b4e616865652b5061726b2b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;lines=Hi+I'm+Nahee+Park+" style="max-width: 100%;">
    </a>
 </p> -->
-  I'm a junior software engineer who wants to develop everything I imagined. <br>
+  Software Engineer Intern @SAP | Graduating Feb 2025  <br>
+Passionate about frontend development, cloud computing, and WebAssembly.  <br>
+A quick learner committed to creating innovative solutions and advancing technology. <br>
   
   
  <div align="center">
