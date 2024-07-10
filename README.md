@@ -49,32 +49,20 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 ### 📍  Tools
 <img alt="Linux" src="https://camo.githubusercontent.com/e6e23929b59f0d903f97a4697f304f549be540b61a8283bc3d69aecfe5fdd8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/6f2c6031717d5ee15739b42bdac7e9bf35756aeb15a600de554882d7b1228f80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7562756e74752d4539353432302e7376673f6c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="ubuntu" data-canonical-src="https://img.shields.io/badge/ubuntu-E95420.svg?logo=ubuntu&amp;logoColor=white" style="max-width: 100%;"> <img alt="Git" src="https://camo.githubusercontent.com/8e7b90f62961f6df73ab269e33ed19fdb931af5a67088a66419d0778cd39c82d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/2abee0f8be5b6c3b1f869693a0c6e82428fd06f9a61a826fa6761d301df1c94c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-black?style=flat-square&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Bitbucket-EE6123?style=flat-square&amp;logo=Bitbucket&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=Jira&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/10991aec54045c7d2d512608c598d6f325e2aad44b7552aea8dc911416727150/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d6132353966663f7374796c653d666c61742d737175617265266c6f676f3d4669676d61266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&amp;logo=Figma&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/be991a18525aab6c994ab98f755625e5536074989eb3d8a7a1c10b75c261e43d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3461313534623f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&amp;logo=Slack&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/bce476b2ed0407a01d32612cacf718fa67240c8a61c3e63db8dc16e877e51f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Notion-black?style=flat-square&amp;logo=Notion&amp;logoColor=white" style="max-width: 100%;">-->
 
-## ⛓ Projects
-### 2022
-#### Own Projects
-
-- [DragMe 드래그미](https://github.com/Team-DragMe/DragMe-Client) - Web Frontend
-- [SOPT Homepage 솝트 공식사이트](https://github.com/sopt/sopt.org-frontend) - Web Frontend
-- [Parachute Drop](https://github.com/Hackatom-2022-Shooting-Stars) - Hackatom Seoul 2nd prize, Evmos Momentum Hackathon 2nd prize / Web Frontend
-- [ScamScan](https://github.com/ScamScan/scamscan-frontend) - Web Frontend
-- [Discord NFT Holder Authentication Bot](https://github.com/Nahee-Park/discord-authentication-bot) - Web Frontend / Backend
-
-#### Open Source Project
-- [Move language syntax highlighting for the Monaco Editor](https://github.com/ethereum/remix-project/pull/3058)
-- [kms npm package](https://github.com/dsrvlabs/kms-monorepo)
-- [WELLDONE Studio Docs](https://github.com/welldonestudio/welldonestudio.github.io)
-- [Update onboarding-library.md](https://github.com/MetaMask/metamask-docs/pull/504#pullrequestreview-1017929475)
-
-### 2021
-#### Own Projects
-
-- [Youniverse 유니버스](https://github.com/TeamYouniverse/Youniverse-Web) - Web Frontend
-- [Kyrics 키릭스](https://www.kyrics.org/) - Web Frontend
-- [Sodam 소담](https://github.com/TeamSodam/sodam-server) - Backend
-- [Sodam Admin 소담 어드민](https://github.com/Nahee-Park/sodam-admin) - Web Frontend / Backend
-
 
 ## 🏃‍♀️ Experience
+### 2024
+
+- 2024.07~ : [SAP](https://www.sap.com)
+  - [HANA Databse Tooling](https://dbmstools.com/databases/sap-hana) software engineer internship
+- 2024.02 ~ 2024.05 : [Sionic AI](https://www.sionic.ai/) 
+  - [STORM Anwer](https://www.sionic.ai/ko/answer) freelance frontend engineer
+
+### 2023 
+
+- AWS Cloud Clubs EWHA 1st Captin 
+- Google Developer Student Clubs EWHA 5th Web Part Core Member
+
 ### 2022
 
 - 30th SOPT Web Development
@@ -89,6 +77,12 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 - 2021.09 ~ 2022.02 : [Goorm](https://goorm.co/)
   - [Goorm DEVTH](https://devth.goorm.io/) software engineer internship 
 
+## 🏆 Honors & Awards
+
+- 2023 SW Startup Competition 3rd Prize (Nov 2023)
+- Telegram Ton Hack-a-TONx 3rd Prize (Mar 2023)
+- Evmos Momentum Hackathon 2nd Prize (Oct 2022)
+- Hackatom Seoul 2nd prize (Jul 2022)
 <!--|활동 기간|활동명|기술스택|프로젝트|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |2021.04~ 2021.07|[대학생 연합 IT벤처 창업 동아리 SOPT 28th - BE SOPT](http://sopt.org/wp/)|React, js|[Youniverse 유니버스](https://github.com/TeamYouniverse/Youniverse-Web)|Web Frontend|
