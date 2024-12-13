@@ -29,7 +29,7 @@ A quick learner committed to creating innovative solutions and advancing technol
 - Ewha Womans Univ., Seoul, Korea (Computer Science & Engineering / Communication & media)
 - contact : nahee.developer@gmail.com
 - develog : https://velog.io/@devstone 
-- linkedin : [Park Nahee](https://www.linkedin.com/in/park-nahee-100890218)
+- linkedin : [Park Nahee](https://www.linkedin.com/in/nahee-park-100890218)
 - twitter : [Nahee 💎](https://twitter.com/devstone_)
   
 <!-- ## 🛠 Tech Stack 🛠 
