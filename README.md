@@ -81,6 +81,7 @@ src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&lo
 
 ## 🏆 Honors & Awards
 
+- 2024 Open Source Contribution Acadaemy 1st prize - Node.js Contribution (Dec 2024)
 - 2023 SW Startup Competition 3rd Prize (Nov 2023)
 - Telegram Ton Hack-a-TONx 3rd Prize (Mar 2023)
 - Evmos Momentum Hackathon 2nd Prize (Oct 2022)
